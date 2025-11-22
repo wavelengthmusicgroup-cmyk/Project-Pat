@@ -1,0 +1,270 @@
+{
+  "topSocialMediaIntegrations": [
+    {
+      "name": "Facebook",
+      "integrationTypes": ["Share Button", "Login", "Comments", "Page Plugin", "Messenger Chat"],
+      "sdkUrl": "https://developers.facebook.com/docs/javascript/quickstart",
+      "apiDocs": "https://developers.facebook.com/docs/",
+      "popularity": "Very High",
+      "setupComplexity": "Medium",
+      "features": [
+        "Social login (OAuth)",
+        "Share content to timeline",
+        "Like button",
+        "Comments widget",
+        "Page feed embed",
+        "Messenger customer chat"
+      ]
+    },
+    {
+      "name": "Instagram",
+      "integrationTypes": ["Feed Display", "Share Button", "Embed Posts"],
+      "sdkUrl": "https://developers.facebook.com/docs/instagram",
+      "apiDocs": "https://developers.facebook.com/docs/instagram-basic-display-api",
+      "popularity": "Very High",
+      "setupComplexity": "Medium",
+      "features": [
+        "Display Instagram feed",
+        "Embed individual posts",
+        "Instagram Stories integration",
+        "Shopping tags"
+      ]
+    },
+    {
+      "name": "Twitter (X)",
+      "integrationTypes": ["Tweet Button", "Timeline Embed", "Login", "Share"],
+      "sdkUrl": "https://developer.twitter.com/en/docs/twitter-for-websites",
+      "apiDocs": "https://developer.twitter.com/en/docs",
+      "popularity": "Very High",
+      "setupComplexity": "Easy",
+      "features": [
+        "Tweet button",
+        "Follow button",
+        "Embedded timeline",
+        "Share via Twitter",
+        "Twitter login"
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "integrationTypes": ["Share Button", "Login", "Company Updates", "Follow Button"],
+      "sdkUrl": "https://developer.linkedin.com/",
+      "apiDocs": "https://docs.microsoft.com/en-us/linkedin/",
+      "popularity": "High",
+      "setupComplexity": "Medium",
+      "features": [
+        "LinkedIn login (OAuth)",
+        "Share on LinkedIn",
+        "Company page plugin",
+        "Follow company button",
+        "Profile data access"
+      ]
+    },
+    {
+      "name": "YouTube",
+      "integrationTypes": ["Video Embed", "Subscribe Button", "Channel Display"],
+      "sdkUrl": "https://developers.google.com/youtube/iframe_api_reference",
+      "apiDocs": "https://developers.google.com/youtube/v3",
+      "popularity": "Very High",
+      "setupComplexity": "Easy",
+      "features": [
+        "Embed videos",
+        "Subscribe button",
+        "Channel showcase",
+        "Playlist embed",
+        "Live stream integration"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "integrationTypes": ["Video Embed", "Share Button", "Login"],
+      "sdkUrl": "https://developers.tiktok.com/",
+      "apiDocs": "https://developers.tiktok.com/doc/overview",
+      "popularity": "Very High",
+      "setupComplexity": "Medium",
+      "features": [
+        "Embed TikTok videos",
+        "TikTok login",
+        "Share to TikTok",
+        "Display user content"
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "integrationTypes": ["Pin Button", "Save Button", "Follow Button", "Board Widget"],
+      "sdkUrl": "https://developers.pinterest.com/docs/getting-started/introduction/",
+      "apiDocs": "https://developers.pinterest.com/docs/api/v5/",
+      "popularity": "High",
+      "setupComplexity": "Easy",
+      "features": [
+        "Pin It button",
+        "Save button",
+        "Follow button",
+        "Profile widget",
+        "Board display"
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "integrationTypes": ["Chat Button", "Share Button", "Business API"],
+      "sdkUrl": "https://developers.facebook.com/docs/whatsapp",
+      "apiDocs": "https://developers.facebook.com/docs/whatsapp/",
+      "popularity": "Very High",
+      "setupComplexity": "Easy",
+      "features": [
+        "Click to chat button",
+        "Share via WhatsApp",
+        "WhatsApp Business integration",
+        "Customer support chat"
+      ]
+    },
+    {
+      "name": "Telegram",
+      "integrationTypes": ["Share Button", "Chat Widget", "Login"],
+      "sdkUrl": "https://core.telegram.org/widgets",
+      "apiDocs": "https://core.telegram.org/bots/api",
+      "popularity": "Medium-High",
+      "setupComplexity": "Easy",
+      "features": [
+        "Share to Telegram",
+        "Telegram login",
+        "Chat widget",
+        "Bot integration"
+      ]
+    },
+    {
+      "name": "Discord",
+      "integrationTypes": ["Server Widget", "Login", "Rich Presence"],
+      "sdkUrl": "https://discord.com/developers/docs/intro",
+      "apiDocs": "https://discord.com/developers/docs/reference",
+      "popularity": "High",
+      "setupComplexity": "Medium",
+      "features": [
+        "Server widget",
+        "Discord login (OAuth2)",
+        "Rich presence",
+        "Bot integration",
+        "Webhooks"
+      ]
+    },
+    {
+      "name": "Reddit",
+      "integrationTypes": ["Share Button", "Login", "Embed"],
+      "sdkUrl": "https://www.reddit.com/dev/api/",
+      "apiDocs": "https://www.reddit.com/dev/api/",
+      "popularity": "Medium-High",
+      "setupComplexity": "Easy",
+      "features": [
+        "Share to Reddit",
+        "Reddit login",
+        "Embed posts/comments",
+        "Subreddit feed"
+      ]
+    },
+    {
+      "name": "Snapchat",
+      "integrationTypes": ["Share Button", "Snap Pixel", "Creative Kit"],
+      "sdkUrl": "https://kit.snapchat.com/",
+      "apiDocs": "https://developers.snap.com/",
+      "popularity": "Medium",
+      "setupComplexity": "Medium",
+      "features": [
+        "Share to Snapchat",
+        "Snap Pixel tracking",
+        "Creative Kit integration",
+        "Camera Kit"
+      ]
+    },
+    {
+      "name": "Twitch",
+      "integrationTypes": ["Stream Embed", "Login", "Chat Embed"],
+      "sdkUrl": "https://dev.twitch.tv/docs/embed/",
+      "apiDocs": "https://dev.twitch.tv/docs/api/",
+      "popularity": "Medium-High",
+      "setupComplexity": "Easy",
+      "features": [
+        "Embed live streams",
+        "Twitch login (OAuth)",
+        "Chat embed",
+        "Follow button",
+        "Clips integration"
+      ]
+    },
+    {
+      "name": "Vimeo",
+      "integrationTypes": ["Video Embed", "Player API"],
+      "sdkUrl": "https://developer.vimeo.com/player/sdk",
+      "apiDocs": "https://developer.vimeo.com/api",
+      "popularity": "Medium",
+      "setupComplexity": "Easy",
+      "features": [
+        "Embed videos",
+        "Customizable player",
+        "Player API",
+        "Private video embedding",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Google (Sign In)",
+      "integrationTypes": ["Login", "One Tap", "Account Linking"],
+      "sdkUrl": "https://developers.google.com/identity/gsi/web",
+      "apiDocs": "https://developers.google.com/identity",
+      "popularity": "Very High",
+      "setupComplexity": "Easy",
+      "features": [
+        "Google Sign-In",
+        "One Tap sign-up",
+        "Automatic sign-in",
+        "Access to Google APIs",
+        "Profile data"
+      ]
+    }
+  ],
+  "quickStartGuide": {
+    "generalSteps": [
+      "1. Register for developer account on each platform",
+      "2. Create an app/project to get API credentials (App ID, Secret Key)",
+      "3. Add platform SDK script to your website",
+      "4. Configure authentication callbacks/redirect URIs",
+      "5. Implement buttons/widgets using platform APIs",
+      "6. Test integration in development environment",
+      "7. Submit for app review if required (Facebook, Instagram, etc.)",
+      "8. Deploy to production"
+    ],
+    "commonImplementations": {
+      "shareButton": "Add meta tags (Open Graph, Twitter Cards) + platform-specific share buttons",
+      "socialLogin": "Implement OAuth 2.0 flow with platform SDK",
+      "embedContent": "Use iframe embeds or platform-provided widgets",
+      "feedDisplay": "Use platform APIs to fetch and display user content"
+    }
+  },
+  "recommendedOrder": [
+    "1. Facebook/Instagram (shared integration)",
+    "2. Google Sign-In (most trusted)",
+    "3. Twitter/X (easiest to implement)",
+    "4. YouTube (if video content)",
+    "5. LinkedIn (if B2B/professional)",
+    "6. WhatsApp (for customer support)",
+    "7. TikTok (if targeting younger audience)",
+    "8. Pinterest (if visual/lifestyle content)",
+    "9. Discord (if gaming/community)",
+    "10. Others based on audience"
+  ],
+  "essentialMetaTags": {
+    "openGraph": {
+      "og:title": "Your page title",
+      "og:description": "Your page description",
+      "og:image": "URL to preview image (1200x630px recommended)",
+      "og:url": "Canonical URL of the page",
+      "og:type": "website"
+    },
+    "twitterCards": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Your page title",
+      "twitter:description": "Your page description",
+      "twitter:image": "URL to preview image",
+      "twitter:site": "@yourusername"
+    }
+  }
+}

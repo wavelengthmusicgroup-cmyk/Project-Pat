@@ -1,5 +1,12 @@
 {
   "name": "project-pat",
   "version": "1.0.0",
-  "scripts": { "start": "live-server" }
+  "private": true,
+  "scripts": {
+    "start": "node dev-server.js",
+    "serve": "node dev-server.js"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
 }

@@ -1,0 +1,307 @@
+{
+  "socialMediaPlatforms": [
+    {
+      "name": "Facebook",
+      "category": "Social Networking",
+      "url": "https://www.facebook.com",
+      "founded": 2004
+    },
+    {
+      "name": "Instagram",
+      "category": "Photo & Video Sharing",
+      "url": "https://www.instagram.com",
+      "founded": 2010
+    },
+    {
+      "name": "Twitter (X)",
+      "category": "Microblogging",
+      "url": "https://twitter.com",
+      "founded": 2006
+    },
+    {
+      "name": "TikTok",
+      "category": "Short Video",
+      "url": "https://www.tiktok.com",
+      "founded": 2016
+    },
+    {
+      "name": "LinkedIn",
+      "category": "Professional Networking",
+      "url": "https://www.linkedin.com",
+      "founded": 2003
+    },
+    {
+      "name": "YouTube",
+      "category": "Video Sharing",
+      "url": "https://www.youtube.com",
+      "founded": 2005
+    },
+    {
+      "name": "Snapchat",
+      "category": "Messaging & Stories",
+      "url": "https://www.snapchat.com",
+      "founded": 2011
+    },
+    {
+      "name": "Pinterest",
+      "category": "Visual Discovery",
+      "url": "https://www.pinterest.com",
+      "founded": 2010
+    },
+    {
+      "name": "Reddit",
+      "category": "Forum & Communities",
+      "url": "https://www.reddit.com",
+      "founded": 2005
+    },
+    {
+      "name": "WhatsApp",
+      "category": "Messaging",
+      "url": "https://www.whatsapp.com",
+      "founded": 2009
+    },
+    {
+      "name": "Telegram",
+      "category": "Messaging",
+      "url": "https://telegram.org",
+      "founded": 2013
+    },
+    {
+      "name": "Discord",
+      "category": "Gaming & Communities",
+      "url": "https://discord.com",
+      "founded": 2015
+    },
+    {
+      "name": "Twitch",
+      "category": "Live Streaming",
+      "url": "https://www.twitch.tv",
+      "founded": 2011
+    },
+    {
+      "name": "Tumblr",
+      "category": "Microblogging",
+      "url": "https://www.tumblr.com",
+      "founded": 2007
+    },
+    {
+      "name": "WeChat",
+      "category": "Messaging & Social",
+      "url": "https://www.wechat.com",
+      "founded": 2011
+    },
+    {
+      "name": "QQ",
+      "category": "Messaging",
+      "url": "https://www.qq.com",
+      "founded": 1999
+    },
+    {
+      "name": "Weibo",
+      "category": "Microblogging",
+      "url": "https://weibo.com",
+      "founded": 2009
+    },
+    {
+      "name": "Douyin",
+      "category": "Short Video",
+      "url": "https://www.douyin.com",
+      "founded": 2016
+    },
+    {
+      "name": "Kuaishou",
+      "category": "Short Video",
+      "url": "https://www.kuaishou.com",
+      "founded": 2011
+    },
+    {
+      "name": "VK (VKontakte)",
+      "category": "Social Networking",
+      "url": "https://vk.com",
+      "founded": 2006
+    },
+    {
+      "name": "Viber",
+      "category": "Messaging",
+      "url": "https://www.viber.com",
+      "founded": 2010
+    },
+    {
+      "name": "Line",
+      "category": "Messaging",
+      "url": "https://line.me",
+      "founded": 2011
+    },
+    {
+      "name": "KakaoTalk",
+      "category": "Messaging",
+      "url": "https://www.kakaocorp.com",
+      "founded": 2010
+    },
+    {
+      "name": "Mastodon",
+      "category": "Decentralized Social",
+      "url": "https://joinmastodon.org",
+      "founded": 2016
+    },
+    {
+      "name": "Threads",
+      "category": "Microblogging",
+      "url": "https://www.threads.net",
+      "founded": 2023
+    },
+    {
+      "name": "BlueSky",
+      "category": "Decentralized Social",
+      "url": "https://bsky.app",
+      "founded": 2023
+    },
+    {
+      "name": "BeReal",
+      "category": "Photo Sharing",
+      "url": "https://bereal.com",
+      "founded": 2020
+    },
+    {
+      "name": "Clubhouse",
+      "category": "Audio Social",
+      "url": "https://www.clubhouse.com",
+      "founded": 2020
+    },
+    {
+      "name": "Nextdoor",
+      "category": "Local Communities",
+      "url": "https://nextdoor.com",
+      "founded": 2011
+    },
+    {
+      "name": "Meetup",
+      "category": "Events & Communities",
+      "url": "https://www.meetup.com",
+      "founded": 2002
+    },
+    {
+      "name": "Flickr",
+      "category": "Photo Sharing",
+      "url": "https://www.flickr.com",
+      "founded": 2004
+    },
+    {
+      "name": "Medium",
+      "category": "Blogging",
+      "url": "https://medium.com",
+      "founded": 2012
+    },
+    {
+      "name": "Quora",
+      "category": "Q&A Community",
+      "url": "https://www.quora.com",
+      "founded": 2009
+    },
+    {
+      "name": "Stack Overflow",
+      "category": "Developer Community",
+      "url": "https://stackoverflow.com",
+      "founded": 2008
+    },
+    {
+      "name": "GitHub",
+      "category": "Developer Social",
+      "url": "https://github.com",
+      "founded": 2008
+    },
+    {
+      "name": "Dribbble",
+      "category": "Design Community",
+      "url": "https://dribbble.com",
+      "founded": 2009
+    },
+    {
+      "name": "Behance",
+      "category": "Creative Portfolio",
+      "url": "https://www.behance.net",
+      "founded": 2005
+    },
+    {
+      "name": "Vimeo",
+      "category": "Video Sharing",
+      "url": "https://vimeo.com",
+      "founded": 2004
+    },
+    {
+      "name": "SoundCloud",
+      "category": "Music Sharing",
+      "url": "https://soundcloud.com",
+      "founded": 2007
+    },
+    {
+      "name": "Spotify",
+      "category": "Music Social",
+      "url": "https://www.spotify.com",
+      "founded": 2006
+    },
+    {
+      "name": "Goodreads",
+      "category": "Book Community",
+      "url": "https://www.goodreads.com",
+      "founded": 2007
+    },
+    {
+      "name": "MySpace",
+      "category": "Social Networking",
+      "url": "https://myspace.com",
+      "founded": 2003
+    },
+    {
+      "name": "Friendster",
+      "category": "Social Networking (Defunct)",
+      "url": "https://www.friendster.com",
+      "founded": 2002
+    },
+    {
+      "name": "Orkut",
+      "category": "Social Networking (Defunct)",
+      "url": "https://orkut.com",
+      "founded": 2004
+    },
+    {
+      "name": "Google+",
+      "category": "Social Networking (Defunct)",
+      "url": "https://plus.google.com",
+      "founded": 2011
+    },
+    {
+      "name": "Vine",
+      "category": "Short Video (Defunct)",
+      "url": "https://vine.co",
+      "founded": 2012
+    }
+  ],
+  "totalCount": 46,
+  "categories": [
+    "Social Networking",
+    "Photo & Video Sharing",
+    "Microblogging",
+    "Short Video",
+    "Professional Networking",
+    "Video Sharing",
+    "Messaging & Stories",
+    "Visual Discovery",
+    "Forum & Communities",
+    "Messaging",
+    "Gaming & Communities",
+    "Live Streaming",
+    "Decentralized Social",
+    "Audio Social",
+    "Local Communities",
+    "Events & Communities",
+    "Blogging",
+    "Q&A Community",
+    "Developer Community",
+    "Design Community",
+    "Creative Portfolio",
+    "Music Sharing",
+    "Music Social",
+    "Book Community"
+  ]
+}
